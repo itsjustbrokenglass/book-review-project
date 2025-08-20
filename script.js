@@ -53,6 +53,7 @@ function displayBooks() {
             listItems = ["The Push, Ashley Audrain", "Everyone in This Room Will Someday Be Dead, Emily Austin", "The Trouble With Being Alive, Cioran", "Women, Race, & Class, Angela Davis", "The Ones We're Meant to Find, Joan He", "This is How You Lose the Time War, Amal El-Mohtar", "The Hate U Give, Thomas", "The Poppy War, RF Kuang", "The Dragon Republic, RF Kuang", "The Burning God, RF Kuang", "I'm Glad My Mom Died, Jenette McCurdy", "The Impossible City, Karen Cheung", "Black Water Sister, Zen Cho", "PatternMaster, Octavia Butler", "Parable of the Talents, Octavia Butler", "In the Dreamhouse, Carmen Machado", "The Soul of an Octopus, Sy Montgomery", "Earthlings, Sayaka Murata", "Zen and the Art of Motorcycle Maintenance, Robert Pirsig", "Year of the Monkey, Patti Smith", "If Not, Winter, Anne Carsin", "Fiebre Tropical, Juliana Lopera", "In Case of Emergency, Mahsa Mohbali", "Voices From the Valley, Moira Weigel", "Trick Mirror, Jia Tolentino"];
             headerText = "Bottom Shelf"
         }
+        
         subHeader.textContent = "°。°。°。°。";
         header.textContent = headerText;
         const ul = document.createElement("ul");
