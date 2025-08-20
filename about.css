@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.text-box{
+    position: relative;
+    background-color: black;
+    color: white;
+    padding:0.25em 0.5em;
+    border:1px solid white;
+
+
+}
+.button{
+
+    text-align: center;
+    
+}
+.button .social-button{
+    background-color: black;
+    color: white;
+    padding:0.25em 0.5em;
+    border:1px solid white;
+    margin-top: -5px;
+    margin-bottom: 30px;
+    cursor: pointer;
+  
+}
